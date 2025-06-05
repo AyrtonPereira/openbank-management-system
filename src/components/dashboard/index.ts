@@ -1,0 +1,5 @@
+export { default as DashboardCitiesChart } from './DashboardCitiesChart.vue'
+export { default as DashboardTagsChart } from './DashboardTagsChart.vue'
+export { default as DashboardResumes } from './DashboardResumes.vue'
+export { default as DashboardResumesItem } from './DashboardResumesItem.vue'
+export { default as DashboardAPIsChart } from './DashboardAPIsChart.vue'
