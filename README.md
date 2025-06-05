@@ -1,7 +1,7 @@
 # Open Bank Project 🚀
 
 ## About the Project
-
+This is a simple project created only to be an example of code, created using Vue 3 and Tailwind.
 
 ### First Step
 1. You'll need to have installed `node` and `pnpm`
